@@ -8,8 +8,7 @@ API Rest desenvolvida para o processo seletivo da 4Intelligence.
 ___________________
 
 1. [Rodando a aplicação](#topic1)
-2. [Realizando testes](#topic2)
-3. [Documentação dos endpoints](#topic3)
+2. [Documentação dos endpoints](#topic2)
 
 
 ## 1. Rodando a aplicação <a name="topic1"></a>
